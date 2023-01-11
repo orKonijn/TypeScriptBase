@@ -20,6 +20,14 @@ const getAmountOfPositive = (numbers: number[]) :   number =>{
     });
     return sum;
 }
+
+const sortList=(numbers: number[]) : number[] =>{
+    return numbers.sort();
+}
+
+
+
+
 const avg = getAverage([0,100,2]);
 console.log(avg);
 const getpositive = getAmountOfPositive([1,3,-4,3,2,-5]);
