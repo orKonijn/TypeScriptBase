@@ -1,0 +1,6 @@
+dollar: 12
+euro: 14
+nis: 314
+peso: 14
+pound: 14
+yen: 114
